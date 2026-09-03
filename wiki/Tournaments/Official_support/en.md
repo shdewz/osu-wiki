@@ -77,7 +77,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
   - osu!mania 4K: 40,000
   - osu!mania 7K: 5,000
 - Tournament organisers **shall not** collect, allow the submission of, or utilise any personal information[^personal-information] from any registrants for any reason outside of these defined exceptions:
-  - Email addresses **may** be collected and used by tournament organisers for any reason **if** it is absolutely necessary for the tournament to function.
+  - Email addresses **may** be collected and used by tournament organisers **if** it is absolutely necessary for the tournament to function.
   - Personal information **may** be collected as needed to fulfill legal, financial, or tax obligations and to fulfill the distribution of monetary or physical prizes.
   - Other exceptions to this rule **may** be granted by the committee, provided the tournament organiser provides a thorough justification to them via [tournaments@ppy.sh](mailto:tournaments@ppy.sh) well before any such information is collected.
   - For tournaments restricting registrations by country, profile flags **should** be used as the basis for entry.
@@ -132,7 +132,7 @@ Tournaments requesting official support **must** adhere to the following:
     - Second offense: 6 month hosting ban
     - Third offense: 1 year hosting ban
     - Fourth offense: Indefinite hosting ban
-  - The sanction scale will reset by one step once a year has elapsed since the host's most recent offense. Repeat offenses will always result in at minimum a 6 month hosting ban.
+  - The sanction scale will reset by one step each year that has elapsed since the host's most recent offense. Repeat offenders are never re-eligible for a second warning.
 - All registrants **must** be screened by the [account support team](/wiki/People/Account_support_team) before play commences.[^play-commence] See [screening](#screening) for more details.
 - If a user satisfies the sign-up criteria (if any) and is not [filtered](#registrant-filtering-and-seeding) out through other means, the tournament **must not** prevent those who pass the screening from participating without both ample evidence presented publicly against them and the approval of the account support team.
   - This includes preventing users who are perceived to be "sandbagging" from play. Should an organiser have valid concerns about the presence of such players affecting the competitive integrity of their tournament, they may raise the issue to the committee for a case-by-case review (see [contact](#contact)).
@@ -224,7 +224,7 @@ Tournaments which are not seeking official support **may** request screening. If
 
 #### Overview
 
-Hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before play commences[^play-commence] with a screening request. Hosts are then **required** to disqualify all screened users. This list is provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The typical wait time for a response is **10-14 days**. If a response is not received after 14 days, [contact the committee](#contact).
+Hosts **must** email [tournaments@ppy.sh](mailto:tournaments@ppy.sh) before play commences[^play-commence] with a screening request. Hosts are then **required** to disqualify all screened users in accordance with the list provided by the [account support team](/wiki/People/Account_support_team) as a response to the screening email. The typical wait time for a response is **10–14 days**. If a response is not received after 14 days, [contact the committee](#contact).
 
 Screening exists to protect competitive integrity by preventing users with recent serious infringements or active tournament bans from participating.
 
