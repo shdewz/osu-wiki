@@ -64,8 +64,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially-su
 - Any region restrictions **must** be reasonable, e.g. between countries with a shared language, political history, or geographic region.
 - The tournament series **must not** run more than two times per year.
 - The tournament format **must** be at least Round of 16 double-elimination or Round of 32 single-elimination.
-  - For LAN tournaments, the format **must** be at least Round of 8 double-elimination or Round of 16 single-elimination.
-    - LAN tournaments must hold the entire bracket offline to be eligible for the smaller formats.
+  - LAN tournaments **may** operate on a Quarterfinals double-elimination or Round of 16 single-elimination format **if and only if** their bracket is held entirely offline.
   - Larger formats, such as group stages and Swiss brackets, **may** also be used **if** they start with at least 16 teams.
     - If applicable and starting with only 16 teams, the format **must** break to a double-elimination bracket afterwards.
   - Draft or auction style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank[^open-rank] and have a minimum team size of 8.
