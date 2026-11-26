@@ -71,6 +71,7 @@ Format criteria are **inflexible, absolute fundamentals** that all officially su
     - If applicable and starting with only 16 teams, the format **must** break to a double-elimination bracket afterwards.
   - Draft- or auction-style tournaments **may** follow the same reduced bracket size as LAN events **if** they are open rank[^open-rank] and have a minimum team size of 8.
     - Note: This applies to a maximum of 2 divisions for global or continental tournaments and 1 division for smaller-scale tournaments.
+    - Note: Tournaments where players are randomly assigned to teams, such as "suiji" tournaments, are not considered drafts for the purpose of this rule. 
   - To request official support for an alternative format, hosts **must** [contact the committee](#contact) and receive written approval **before** accepting registrations for the event.
 - Tournaments that are not open rank[^open-rank] **must not** allow participants whose numeric global rank value is larger than:
   - osu!: 100,000
@@ -216,6 +217,8 @@ In addition to the expectations for programs above, automated refereeing tools *
 
 ## Badge support
 
+Profile badges are awarded to the winners of tournaments which abide by the [eligibility criteria](#eligibility-criteria) and receive official support. Badges are **permanent** additions to user profiles that function similarly to trophies for players. They also represent osu!'s endorsement of the tournaments that award them.
+
 The checklists below are published so that organisers can check their tournament against the same criteria the [Tournament Committee](/wiki/People/Tournament_Committee) uses during [review](/wiki/People/Tournament_Committee#tournament-review), and fix any issues before submitting a request. For items that are not self-explanatory, each links to the section of this article that explains it in full. Where the two differ, the full text takes priority.
 
 Requirements fall into three groups:
@@ -319,6 +322,30 @@ Below are examples of tournaments which have received this distinction:
 - [Expert Global Taiko Showdown 2025](https://osu.ppy.sh/community/forums/topics/2023740?n=1)
 - [Springtime osu!mania Free-for-all Tournament 6](/wiki/Tournaments/SOFT/6)
 - [Project Prism 2024](/wiki/Tournaments/Project_Prism/2024)
+
+### Design requirements
+
+Badge images **must** adhere to the following standards:
+
+- The submitted file **must** be a `.png` file.
+- The dimensions **must** be exactly `172x80 px`.
+- The design **must** clearly display the tournament's name, logo or motif.
+- The design **must** be cleanly produced, legible and of reasonable visual quality.
+- The design **must not** include any sponsorship or promote anything besides the tournament.
+- The design **must not** include any AI-generated assets.
+- The design **must** be original and be made specifically for the tournament.
+- The design **must not** use any drawings or artwork without the permission from any rights holders.
+- The tournament **must** receive permission to use any trademarks referenced in the tournament's name, branding or materials from the relevant rights holders.
+
+Designers **should** make use of the [badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to preview how badges will appear on profiles.
+
+#### Examples
+
+Below are examples of exemplary profile badge designs:
+
+[![Philippines Kaibigan Cup 2025 badge](img/phkc-badge.png)](https://osu.ppy.sh/community/forums/topics/2036687?n=1) [![Expert Global Taiko Showdown 2022 winner badge](img/egts-w-2022@2x.png)](/wiki/Tournaments/GTS/EGTS_2022) [![Project Prism 2024 winner badge](img/PRISM241ST@2x.png)](/wiki/Tournaments/Project_Prism/2024)
+
+Submissions that do not meet these standards will be refused with reasoning. Under these circumstances, the committee reserves the right to require a badge to be redesigned.
 
 ## Requesting support
 
@@ -471,7 +498,7 @@ Include the following in the email:
 
 ### Self check
 
-Hosts **must** review the following items **before** submitting the conclusion email. Checking over these items beforehand will significantly reduce review turnaround times.
+In addition to making sure that **all** [hard requirements](#hard-requirements) for support are met, hosts **must** review the following items **before** submitting the conclusion email. Checking over these items beforehand will significantly reduce review turnaround times.
 
 - All staff listings are updated and synchronised. Where staff are listed in spreadsheets (e.g. referees assigned to matches), usernames **must** be consistent throughout.
 - All staff are appropriately credited in any spreadsheets.
@@ -480,34 +507,6 @@ Hosts **must** review the following items **before** submitting the conclusion e
   - If the score values used for seeding differ from the MP links in any way, the relevant details **must** be stated in the conclusion email. This includes any normalisations of, or other modifications to, in-game mod multipliers.
 - All required links are present on the forum post (see the [regulations section](#regulations)).
 - All online brackets and match listings are updated to include results for all matches.
-
-## Profile badges
-
-Profile badges are awarded to the winners of tournaments which abide by the [eligibility criteria](#eligibility-criteria) and receive official support. Badges are **permanent** additions to user profiles that function similarly to trophies for players. They also represent osu!'s endorsement of the tournaments that award them.
-
-### Design requirements
-
-Badge images **must** adhere to the following standards:
-
-- The submitted file **must** be a `.png` file.
-- The dimensions **must** be exactly `172x80 px`.
-- The design **must** clearly display the tournament's name, logo or motif.
-- The design **must** be cleanly produced, legible and of reasonable visual quality.
-- The design **must not** include any sponsorship or promote anything besides the tournament.
-- The design **must not** include any AI-generated assets.
-- The design **must** be original and be made specifically for the tournament.
-- The design **must not** use any drawings or artwork without the permission from any rights holders.
-- The tournament **must** receive permission to use any trademarks referenced in the tournament's name, branding or materials from the relevant rights holders.
-
-Designers **should** make use of the [badge visualisation tool](https://tcomm.hivie.tn/assets-previewer?tab=badges) to preview how badges will appear on profiles.
-
-### Examples
-
-Below are examples of exemplary profile badge designs:
-
-[![Philippines Kaibigan Cup 2025 badge](img/phkc-badge.png)](https://osu.ppy.sh/community/forums/topics/2036687?n=1) [![Expert Global Taiko Showdown 2022 winner badge](img/egts-w-2022@2x.png)](/wiki/Tournaments/GTS/EGTS_2022) [![Project Prism 2024 winner badge](img/PRISM241ST@2x.png)](/wiki/Tournaments/Project_Prism/2024)
-
-Submissions that do not meet these standards will be refused with reasoning. Under these circumstances, the committee reserves the right to require a badge to be redesigned.
 
 ## Revocation of support
 
